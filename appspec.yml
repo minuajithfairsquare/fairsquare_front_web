@@ -13,7 +13,7 @@ permissions:
      type:
        - file
 fxefqefws
-hooks: 
+hooks: zsdfasdfas
 
   BeforeInstall:
     - location: scripts/stop_server.sh
